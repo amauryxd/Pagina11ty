@@ -1,31 +1,32 @@
 ---
 layout: base.njk
-title: Hola Mundo 11ty
+title: Blog de Amaury
 ---
 
 # {{ title }}
 
-- Primavera
-- Verano
-- Otoño
-- Invierno
+## Artículos
 
-[Acerca]({{ '/acerca' | url }})
+### Categoría Artistas
 
-## Artículos de mi Blog
+{% for artista in collections.artistas %}
 
-### Categoría Libros
-
-{% for libro in collections.libros %}
-
-- [{{libro.data.title}}]({{ libro.url | url }})
+- [{{artista.data.title}}]({{ artista.url | url }})
 
 {% endfor %}
 
-### Categoria Series
+### Categoria Animes
 
-{% for serie in collections.series %}
+{% for anime in collections.animes %}
 
-- [{{serie.data.title}}]({{ serie.url | url }})
+- [{{anime.data.title}}]({{ anime.url | url }})
+
+{% endfor %}
+
+### Categoria Videojuegos
+
+{% for videojuego in collections.videojuegos %}
+
+- [{{videojuego.data.title}}]({{ videojuego.url | url }})
 
 {% endfor %}

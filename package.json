@@ -1,7 +1,7 @@
 {
   "name": "amerike-template-11ty-3dev",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. Clona este repositorio.\r    ```bash\r    git clone https://github.com/jonmircha/amerike-template-eleventy-3dev.git\r    ```\r 1. Instala las dependencias.\r    ```bash\r    npm install\r    ```\r 1. Iniciar el ambiente de desarrollo.\r    ```bash\r    npm run dev\r    ```\r 1. Comienza a crear el contenido de tu sitio.\r 1. Cuando termines recuerda modificar el contenod del comando _build_, reemplazando el texto _**--pathprefix=/amerike-template-eleventy-3dev/**_ por _**--pathprefix=/el-nombre-de-tu-repositorio/**_.\r 1. Ejecuta el comando _build_.\r    ```bash\r    npm run build\r    ```\r 1. Crea un repositorio en tu cuenta de _GitHub_.\r 1. Vincula tu carpeta con tu repositorio.\r 1. Sube el contenido a _GitHub_.\r 1. Configura el Servicio de _GitHub Pages_.",
   "main": "index.js",
   "scripts": {
     "dev": "npx @11ty/eleventy --serve",
@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
