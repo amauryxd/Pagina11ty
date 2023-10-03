@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Reseña del Minecraft
+title: Reseña de Minecraft
 tags: videojuegos
 ---
 

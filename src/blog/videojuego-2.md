@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Reseña del Persona 5
+title: Reseña de Persona 5
 tags: videojuegos
 ---
 

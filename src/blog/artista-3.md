@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Reseña de ADO
+title: Reseña de Zun
 tags: artistas
 ---
 

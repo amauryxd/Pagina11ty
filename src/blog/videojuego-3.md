@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Reseña del Just Cause 3
+title: Reseña de Touhou Project
 tags: videojuegos
 ---
 
