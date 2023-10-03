@@ -5,7 +5,29 @@ title: Blog de Amaury
 
 # {{ title }}
 
-## Artículos
+![Header]({{ './static/img/pg1.png' | url }})
+
+## Acerca de mi
+
+Soy un estudiante de Ingeniería en Software Interactivo y Videojuegos, tengo conocimiento en areas como:
+ - 💻Programación
+    - C#
+    - Java
+    - JavaScript
+ - 🎮Diseño de juegos
+    - Diseño de niveles
+    - Mecanicas
+    - Planeación
+ - 🎹Música
+    - Composición
+    - Interpretación
+    - FL studio 
+ - 🎞️Edición de video
+    - DaVinci Resolve 
+    - Magix Video Deluxe
+ - 📷Edición de Imagen
+    - Photoshop
+## Articulos
 
 ### Categoría Artistas
 

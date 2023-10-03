@@ -1,5 +1,5 @@
 ---
-layout: base.njk
+layout: baseArt.njk
 title: Reseña de K-ON!
 tags: animes
 ---

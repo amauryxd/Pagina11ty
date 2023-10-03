@@ -1,11 +1,15 @@
+  @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+html{
+  font-family: 'Lato', sans-serif;
+}
 body {
-  color: #eee;
-  background-color: #222;
+  color: #000000;
+  background-color: #7bcfff86;
   font-family: sans-serif;
 }
 
 a {
-  color: aqua;
+  color: rgb(166, 44, 247);
 }
 
 a:hover {
@@ -14,5 +18,9 @@ a:hover {
 
 img{
   max-width: 100%;
-  width: 60rem;
+  width: 50rem;
+}
+
+p{
+  max-width: 50rem;
 }
