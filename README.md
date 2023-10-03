@@ -2,4 +2,4 @@
 
 ## Práctica 6 
 
-[Enlace](https://amauryxd.github.io/Pagina11ty/)
+[Enlace a la pagina de git](https://amauryxd.github.io/Pagina11ty/)
